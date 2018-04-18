@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Juego del Gato</string>
+    <string name="nuevo_juego">Nuevo Juego</string>
+    <string name="empate">¡Juego Empatado!</string>
+    <string name="ganador">¡Juego Termindo! %1$s ganó</string>
 </resources>
